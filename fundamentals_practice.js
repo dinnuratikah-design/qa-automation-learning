@@ -16,7 +16,7 @@ console.log("Automation Tools: " + automationTools.join(", "));
 console.log("Username: " + credentials.username);
 console.log("Password: " + credentials.password);
 console.log(age >= expectedAge);
-console.log(age >= expectedAge && isQAEngineer)
+console.log(age >= expectedAge && isQAEngineer);
 
 
 
